@@ -11,14 +11,6 @@ while True:
 
     print("press 'q' to quit")
 
-    # 'break' the program quits if the player hits the letter 'q'
     if guess == "q":
         print("thanks for playing")
         break
-
-    
-# when user quits program with 'q'. 
-
-# Error pops up 
-# 
-#  'ValueError: invalid literal for int() with base 10: 'q'
